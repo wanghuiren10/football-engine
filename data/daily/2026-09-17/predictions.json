@@ -5147,6 +5147,10 @@
       "best_edge": -0.0846,
       "recommended": false
     },
-    "kelly_edge": -0.1068
+    "kelly_edge": -0.1068,
+    "actual_result": "1-1",
+    "actual_home_score": 1,
+    "actual_away_score": 1,
+    "direction_correct": false
   }
 ]
