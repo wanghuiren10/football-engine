@@ -1,13 +1,13 @@
 {
   "date": "2026-09-18",
-  "n_matches": 4,
-  "hit_rate": 0.5,
-  "hits": 2,
+  "n_matches": 13,
+  "hit_rate": 0.5385,
+  "hits": 7,
   "source_brier": {
-    "model": 0.467,
-    "market": 0.6273,
+    "model": 0.5373,
+    "market": 0.588,
     "djyy": null,
-    "final": 0.6078
+    "final": 0.5494
   },
   "by_league": {
     "亚运男足": {
@@ -33,46 +33,110 @@
       "hit_rate": 0.0,
       "wilson_lower": 0.0,
       "avg_brier": 1.0904
+    },
+    "法乙": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.8886
+    },
+    "荷甲": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.2138
+    },
+    "荷乙": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.2924
+    },
+    "德甲": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.1333
+    },
+    "意甲": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7251
+    },
+    "法甲": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.4229
+    },
+    "英超": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7136
+    },
+    "英冠": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.3284
+    },
+    "西甲": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.9933
     }
   },
   "by_confidence_tier": {
     "high": {
-      "n": 3,
-      "hit_rate": 0.6667,
-      "wilson_lower": 0.2077,
-      "avg_brier": 0.5145
+      "n": 6,
+      "hit_rate": 0.8333,
+      "wilson_lower": 0.4365,
+      "avg_brier": 0.3638
     },
     "mid": {
-      "n": 1,
-      "hit_rate": 0.0,
-      "wilson_lower": 0.0,
-      "avg_brier": 0.8877
+      "n": 7,
+      "hit_rate": 0.2857,
+      "wilson_lower": 0.0822,
+      "avg_brier": 0.7085
     }
   },
   "by_odds_band": {
     "1.0-1.5": {
-      "n": 2,
-      "hit_rate": 0.5,
-      "wilson_lower": 0.0945,
-      "avg_brier": 0.6556
+      "n": 4,
+      "hit_rate": 0.75,
+      "wilson_lower": 0.3006,
+      "avg_brier": 0.4145
     },
     "1.5-2.0": {
+      "n": 7,
+      "hit_rate": 0.5714,
+      "wilson_lower": 0.2505,
+      "avg_brier": 0.578
+    },
+    "2.0-3.0": {
       "n": 2,
-      "hit_rate": 0.5,
-      "wilson_lower": 0.0945,
-      "avg_brier": 0.5601
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7193
     }
   },
   "score_stats": {
-    "top1": 0,
-    "top3": 1,
-    "top5": 2,
-    "top8": 2,
-    "any": 2
+    "top1": 1,
+    "top3": 2,
+    "top5": 5,
+    "top8": 7,
+    "any": 7
   },
   "score_rank_hist": {
     "2": 1,
-    "5": 1
+    "5": 2,
+    "6": 1,
+    "4": 1,
+    "8": 1,
+    "1": 1
   },
   "score_source_stats": {
     "djyy": {
@@ -80,45 +144,49 @@
       "hits": 0
     },
     "mc": {
-      "n": 2,
-      "hits": 2
+      "n": 7,
+      "hits": 5
     }
   },
   "market_signal_stats": {
-    "n": 4,
-    "hits": 1
+    "n": 13,
+    "hits": 8
   },
   "layered": {
-    "log_loss_final": 1.0208,
-    "rps_final": 0.2164,
-    "rps_market": 0.2228,
+    "log_loss_final": 0.935,
+    "rps_final": 0.2099,
+    "rps_market": 0.2231,
     "goal_framework": {
-      "n": 4,
-      "hits": 0
+      "n": 13,
+      "hits": 5
     },
     "prob_bands": {
+      "40-50%": {
+        "n": 3,
+        "hit_rate": 0.3333
+      },
       "50-60%": {
-        "n": 1,
-        "hit_rate": 0.0
+        "n": 5,
+        "hit_rate": 0.4
       },
       "60%+": {
-        "n": 3,
-        "hit_rate": 0.6667
+        "n": 5,
+        "hit_rate": 0.8
       }
     },
     "freshness_groups": {
       "ok": {
-        "n": 1,
-        "hit_rate": 0.0
+        "n": 6,
+        "hit_rate": 0.3333
       },
       "watch": {
-        "n": 3,
-        "hit_rate": 0.6667
+        "n": 7,
+        "hit_rate": 0.7143
       }
     }
   },
   "biases": [],
   "total_pnl": 0.0,
-  "generated_at": "2026-09-18T19:14:22.599898",
-  "sha256": "a91469db62fec7e69e9b68867cabe580"
+  "generated_at": "2026-09-18T21:44:12.747859",
+  "sha256": "c8e1fd6c6a06854cdadfa89d9b8aa576"
 }
