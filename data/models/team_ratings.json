@@ -608,10 +608,10 @@
     "rest_days": 3
   },
   "罗马": {
-    "elo": 1880.6,
-    "attack": 1.1605,
-    "defense": 0.5168,
-    "form": 0.7641,
+    "elo": 1868.2,
+    "attack": 1.1177,
+    "defense": 0.5368,
+    "form": 0.5349,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10328,10 +10328,10 @@
     "rest_days": 3
   },
   "国米": {
-    "elo": 1585.3,
-    "attack": 1.0116,
-    "defense": 0.8485,
-    "form": 0.4119,
+    "elo": 1597.7,
+    "attack": 0.9833,
+    "defense": 0.8361,
+    "form": 0.2883,
     "injury": 0.0,
     "rest_days": 3
   },
