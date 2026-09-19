@@ -1,13 +1,13 @@
 {
   "date": "2026-09-18",
-  "n_matches": 13,
-  "hit_rate": 0.5385,
+  "n_matches": 14,
+  "hit_rate": 0.5,
   "hits": 7,
   "source_brier": {
-    "model": 0.5373,
-    "market": 0.588,
+    "model": 0.5854,
+    "market": 0.6105,
     "djyy": null,
-    "final": 0.5494
+    "final": 0.5761
   },
   "by_league": {
     "亚运男足": {
@@ -87,6 +87,12 @@
       "hit_rate": 0.0,
       "wilson_lower": 0.0,
       "avg_brier": 0.9933
+    },
+    "美职": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.9223
     }
   },
   "by_confidence_tier": {
@@ -97,10 +103,10 @@
       "avg_brier": 0.3638
     },
     "mid": {
-      "n": 7,
-      "hit_rate": 0.2857,
-      "wilson_lower": 0.0822,
-      "avg_brier": 0.7085
+      "n": 8,
+      "hit_rate": 0.25,
+      "wilson_lower": 0.0715,
+      "avg_brier": 0.7352
     }
   },
   "by_odds_band": {
@@ -111,10 +117,10 @@
       "avg_brier": 0.4145
     },
     "1.5-2.0": {
-      "n": 7,
-      "hit_rate": 0.5714,
-      "wilson_lower": 0.2505,
-      "avg_brier": 0.578
+      "n": 8,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.2152,
+      "avg_brier": 0.621
     },
     "2.0-3.0": {
       "n": 2,
@@ -126,13 +132,13 @@
   "score_stats": {
     "top1": 1,
     "top3": 2,
-    "top5": 5,
-    "top8": 7,
-    "any": 7
+    "top5": 6,
+    "top8": 8,
+    "any": 8
   },
   "score_rank_hist": {
     "2": 1,
-    "5": 2,
+    "5": 3,
     "6": 1,
     "4": 1,
     "8": 1,
@@ -144,21 +150,21 @@
       "hits": 0
     },
     "mc": {
-      "n": 7,
-      "hits": 5
+      "n": 8,
+      "hits": 6
     }
   },
   "market_signal_stats": {
-    "n": 13,
+    "n": 14,
     "hits": 8
   },
   "layered": {
-    "log_loss_final": 0.935,
-    "rps_final": 0.2099,
-    "rps_market": 0.2231,
+    "log_loss_final": 0.9714,
+    "rps_final": 0.226,
+    "rps_market": 0.2378,
     "goal_framework": {
-      "n": 13,
-      "hits": 5
+      "n": 14,
+      "hits": 6
     },
     "prob_bands": {
       "40-50%": {
@@ -166,8 +172,8 @@
         "hit_rate": 0.3333
       },
       "50-60%": {
-        "n": 5,
-        "hit_rate": 0.4
+        "n": 6,
+        "hit_rate": 0.3333
       },
       "60%+": {
         "n": 5,
@@ -180,13 +186,13 @@
         "hit_rate": 0.3333
       },
       "watch": {
-        "n": 7,
-        "hit_rate": 0.7143
+        "n": 8,
+        "hit_rate": 0.625
       }
     }
   },
   "biases": [],
   "total_pnl": 0.0,
-  "generated_at": "2026-09-18T23:39:19.629256",
-  "sha256": "e9cb8f3969d56755fc7e21b2738c3bc5"
+  "generated_at": "2026-09-19T01:39:52.143776",
+  "sha256": "e88e1df6d52db998f9d9482cc153d6ac"
 }
