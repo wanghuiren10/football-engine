@@ -2384,10 +2384,10 @@
     "rest_days": 3
   },
   "拉齐奥": {
-    "elo": 1709.3,
-    "attack": 0.7324,
-    "defense": 0.6972,
-    "form": 0.4451,
+    "elo": 1718.8,
+    "attack": 0.7314,
+    "defense": 0.6292,
+    "form": 0.6116,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4536,18 +4536,18 @@
     "rest_days": 3
   },
   "昂热": {
-    "elo": 1430.3,
-    "attack": 0.5542,
-    "defense": 1.0888,
-    "form": -0.5414,
+    "elo": 1448.2,
+    "attack": 0.5705,
+    "defense": 0.9826,
+    "form": -0.079,
     "injury": 0.0,
     "rest_days": 3
   },
   "特鲁瓦": {
-    "elo": 1356.3,
-    "attack": 0.7595,
-    "defense": 1.3751,
-    "form": -0.582,
+    "elo": 1338.4,
+    "attack": 0.6854,
+    "defense": 1.3114,
+    "form": -0.7074,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5936,10 +5936,10 @@
     "rest_days": 3
   },
   "威尼斯": {
-    "elo": 1362.0,
-    "attack": 0.5362,
-    "defense": 1.0998,
-    "form": -0.9173,
+    "elo": 1352.5,
+    "attack": 0.4839,
+    "defense": 1.0629,
+    "form": -0.9421,
     "injury": 0.0,
     "rest_days": 3
   },
