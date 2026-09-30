@@ -169,5 +169,16 @@
     "away_team": "哈萨克",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "周二015",
+    "home_team": "美国",
+    "away_team": "智利",
+    "home_score": 4,
+    "away_score": 2,
+    "competition": "国际友谊",
+    "match_date": "2026-09-29",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
