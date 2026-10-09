@@ -1248,10 +1248,10 @@
     "rest_days": 3
   },
   "赫拉克勒斯": {
-    "elo": 1266.8,
-    "attack": 0.7469,
-    "defense": 1.4492,
-    "form": 0.0496,
+    "elo": 1307.9,
+    "attack": 0.7796,
+    "defense": 1.3079,
+    "form": 0.3347,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1296,10 +1296,10 @@
     "rest_days": 3
   },
   "海伦芬": {
-    "elo": 1506.1,
-    "attack": 0.9668,
-    "defense": 0.947,
-    "form": -0.1674,
+    "elo": 1498.3,
+    "attack": 0.8725,
+    "defense": 0.925,
+    "form": -0.4172,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3296,10 +3296,10 @@
     "rest_days": 3
   },
   "埃因霍温": {
-    "elo": 1762.5,
-    "attack": 1.2137,
-    "defense": 0.7382,
-    "form": 0.3025,
+    "elo": 1770.3,
+    "attack": 1.1657,
+    "defense": 0.6662,
+    "form": 0.5117,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5280,10 +5280,10 @@
     "rest_days": 3
   },
   "瓦尔韦克": {
-    "elo": 1327.3,
-    "attack": 0.9851,
-    "defense": 1.3967,
-    "form": -0.35,
+    "elo": 1286.2,
+    "attack": 0.8891,
+    "defense": 1.3661,
+    "form": -0.545,
     "injury": 0.0,
     "rest_days": 3
   },
