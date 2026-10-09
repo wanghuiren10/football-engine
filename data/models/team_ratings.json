@@ -896,10 +896,10 @@
     "rest_days": 3
   },
   "赫尔辛基": {
-    "elo": 1561.2,
-    "attack": 0.6451,
-    "defense": 0.4142,
-    "form": 0.141,
+    "elo": 1586.6,
+    "attack": 0.7933,
+    "defense": 0.3738,
+    "form": 0.3987,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3912,10 +3912,10 @@
     "rest_days": 3
   },
   "瓦萨": {
-    "elo": 1336.6,
-    "attack": 0.5813,
-    "defense": 1.006,
-    "form": -0.9346,
+    "elo": 1311.2,
+    "attack": 0.5246,
+    "defense": 1.119,
+    "form": -0.9542,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6752,10 +6752,10 @@
     "rest_days": 3
   },
   "库奥皮奥": {
-    "elo": 1492.7,
-    "attack": 0.4632,
-    "defense": 0.4445,
-    "form": -0.52,
+    "elo": 1474.7,
+    "attack": 0.418,
+    "defense": 0.4363,
+    "form": -0.664,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7944,10 +7944,10 @@
     "rest_days": 3
   },
   "AC奥卢": {
-    "elo": 1515.1,
-    "attack": 0.6422,
-    "defense": 0.607,
-    "form": 0.3,
+    "elo": 1533.1,
+    "attack": 0.6148,
+    "defense": 0.5478,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
