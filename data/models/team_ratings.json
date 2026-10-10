@@ -1376,10 +1376,10 @@
     "rest_days": 3
   },
   "里尔": {
-    "elo": 1686.1,
-    "attack": 0.7636,
-    "defense": 0.5843,
-    "form": -0.07,
+    "elo": 1691.6,
+    "attack": 0.7243,
+    "defense": 0.5273,
+    "form": 0.251,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5320,10 +5320,10 @@
     "rest_days": 3
   },
   "勒阿弗尔": {
-    "elo": 1477.1,
-    "attack": 0.6462,
-    "defense": 0.9217,
-    "form": -0.4872,
+    "elo": 1471.6,
+    "attack": 0.5832,
+    "defense": 0.867,
+    "form": -0.641,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6632,10 +6632,10 @@
     "rest_days": 3
   },
   "代格福什": {
-    "elo": 1312.3,
-    "attack": 0.3726,
-    "defense": 0.7148,
-    "form": -0.5703,
+    "elo": 1315.4,
+    "attack": 0.3715,
+    "defense": 0.6803,
+    "form": -0.3992,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7968,10 +7968,10 @@
     "rest_days": 3
   },
   "米亚尔比": {
-    "elo": 1314.9,
-    "attack": 0.352,
-    "defense": 0.8267,
-    "form": -0.7178,
+    "elo": 1311.8,
+    "attack": 0.3529,
+    "defense": 0.7813,
+    "form": -0.5025,
     "injury": 0.0,
     "rest_days": 3
   },

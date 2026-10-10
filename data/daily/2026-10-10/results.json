@@ -142,5 +142,23 @@
     "away_team": "马竞",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3747034",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "里尔",
+    "away_team": "勒阿弗尔",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3634351",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "米亚尔比",
+    "away_team": "代格福什",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]
