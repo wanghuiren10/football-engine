@@ -1056,10 +1056,10 @@
     "rest_days": 3
   },
   "莫尔德": {
-    "elo": 1737.4,
-    "attack": 1.2008,
-    "defense": 0.735,
-    "form": 0.6676,
+    "elo": 1729.5,
+    "attack": 1.1541,
+    "defense": 0.7337,
+    "form": 0.4673,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1368,10 +1368,10 @@
     "rest_days": 3
   },
   "马赛": {
-    "elo": 1591.3,
-    "attack": 0.8563,
-    "defense": 0.9434,
-    "form": -0.7448,
+    "elo": 1605.9,
+    "attack": 0.8432,
+    "defense": 0.8514,
+    "form": -0.2214,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2352,10 +2352,10 @@
     "rest_days": 3
   },
   "卡利亚里": {
-    "elo": 1576.8,
-    "attack": 0.6312,
-    "defense": 0.703,
-    "form": 0.6849,
+    "elo": 1576.1,
+    "attack": 0.6048,
+    "defense": 0.6696,
+    "form": 0.4794,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4544,10 +4544,10 @@
     "rest_days": 3
   },
   "特鲁瓦": {
-    "elo": 1338.4,
-    "attack": 0.6854,
-    "defense": 1.3114,
-    "form": -0.7074,
+    "elo": 1323.8,
+    "attack": 0.6186,
+    "defense": 1.2539,
+    "form": -0.7952,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10368,10 +10368,10 @@
     "rest_days": 3
   },
   "尤文": {
-    "elo": 1626.3,
-    "attack": 0.9204,
-    "defense": 0.6522,
-    "form": 0.4854,
+    "elo": 1627.0,
+    "attack": 0.8658,
+    "defense": 0.6238,
+    "form": 0.3398,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10848,10 +10848,10 @@
     "rest_days": 3
   },
   "利勒斯特罗姆": {
-    "elo": 1484.7,
-    "attack": 0.9025,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1492.6,
+    "attack": 0.8849,
+    "defense": 0.9802,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
