@@ -1,7 +1,7 @@
 {
-  "current_streak": -2,
-  "total_losses": 560,
-  "total_wins": 609,
+  "current_streak": -1,
+  "total_losses": 564,
+  "total_wins": 611,
   "halted": false,
   "halt_date": "",
   "tier": 1,
@@ -10,48 +10,6 @@
   "weekly_pnl": 0.0,
   "weekly_start": "2026-10-12",
   "history": [
-    {
-      "date": "2026-09-07",
-      "won": false,
-      "pnl": 0.0,
-      "streak": -1,
-      "bankroll": 3673.29
-    },
-    {
-      "date": "2026-09-07",
-      "won": true,
-      "pnl": 0.0,
-      "streak": 1,
-      "bankroll": 3673.29
-    },
-    {
-      "date": "2026-09-07",
-      "won": false,
-      "pnl": 0.0,
-      "streak": -1,
-      "bankroll": 3673.29
-    },
-    {
-      "date": "2026-09-07",
-      "won": true,
-      "pnl": 0.0,
-      "streak": 1,
-      "bankroll": 3673.29
-    },
-    {
-      "date": "2026-09-07",
-      "won": false,
-      "pnl": 0.0,
-      "streak": -1,
-      "bankroll": 3673.29
-    },
-    {
-      "date": "2026-09-07",
-      "won": true,
-      "pnl": 0.0,
-      "streak": 1,
-      "bankroll": 3673.29
-    },
     {
       "date": "2026-09-07",
       "won": true,
@@ -1408,6 +1366,48 @@
       "won": false,
       "pnl": 0.0,
       "streak": -2,
+      "bankroll": 3870.79
+    },
+    {
+      "date": "2026-10-13",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 3870.79
+    },
+    {
+      "date": "2026-10-13",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
+      "bankroll": 3870.79
+    },
+    {
+      "date": "2026-10-13",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -2,
+      "bankroll": 3870.79
+    },
+    {
+      "date": "2026-10-13",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -3,
+      "bankroll": 3870.79
+    },
+    {
+      "date": "2026-10-13",
+      "won": true,
+      "pnl": 0.0,
+      "streak": 1,
+      "bankroll": 3870.79
+    },
+    {
+      "date": "2026-10-13",
+      "won": false,
+      "pnl": 0.0,
+      "streak": -1,
       "bankroll": 3870.79
     }
   ]
