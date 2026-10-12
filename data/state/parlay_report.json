@@ -1,20 +1,20 @@
 {
-  "n_matches": 764,
-  "n_days": 61,
+  "n_matches": 768,
+  "n_days": 62,
   "single": {
-    "n": 764,
-    "roi": -0.0913
+    "n": 768,
+    "roi": -0.0942
   },
   "parlay_2in1": {
-    "n": 61,
-    "hit_rate": 0.4426,
-    "roi": -0.0909,
+    "n": 62,
+    "hit_rate": 0.4355,
+    "roi": -0.1056,
     "avg_odds": 2.51
   },
   "parlay_value_leagues": {
     "n": 6,
     "roi": -0.6604
   },
-  "generated_at": "2026-10-12T16:00:55.395006",
+  "generated_at": "2026-10-12T19:51:22.302623",
   "verdict": "串关 ROI 为负：不建议玩串关（两场都中太难），专注单关价值区"
 }
